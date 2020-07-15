@@ -1,5 +1,5 @@
 {
-  "name": "@eddienko/jupyterlab-colabinspired-theme-light",
+  "name": "@brentian/jupyterlab-colabinspired-theme-light",
   "version": "0.2.0",
   "description": "A jupyterLab theme extension inspired in Colab",
   "author": "Eduardo Gonzalez Solares <e.gonzalezsolares@gmail.com>",
@@ -60,6 +60,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/eddienko/jupyterlab-colabinspired-theme-light"
+    "url": "https://github.com/brentian/jupyterlab-colabinspired-theme-light"
   }
 }
